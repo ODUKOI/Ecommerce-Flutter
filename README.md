@@ -61,10 +61,6 @@ Welcome to the Flutter-TDD-Clean-Architecture-E-Commerce-App GitHub repository! 
     </table>
 </div>
 
-### Java Spring Boot
-* Source Code - coming soon
-* Live - coming soon
-
 ## Contributing:
 
 We welcome contributions from the Flutter community to make this project even better. Whether you are interested in adding new features, fixing bugs, or improving documentation, your contributions are highly appreciated. Please refer to the contribution guidelines in the repository for more details on how to get involved.
@@ -102,26 +98,5 @@ For help getting started with Flutter, view our online
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contributors ✨
-
-Thanks to these wonderful people:
-<!-- ALL-CONTRIBUTORS-LIST:START -->
-<table>
-  <tr><td align="center"><a href="https://github.com/AaronDsilva97"><img src="https://avatars.githubusercontent.com/u/74453685?v=4" width="100px;" alt="AaronDsilva97"/><br /><sub><b>AaronDsilva97</b></sub></a></td></tr>
-</table>
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.svg?style=for-the-badge
-[contributors-url]: https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.svg?style=for-the-badge
-[forks-url]: https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App/network/members
-[stars-shield]: https://img.shields.io/github/stars/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.svg?style=for-the-badge
-[stars-url]: https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.svg?style=for-the-badge
-[issues-url]: https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: http://www.linkedin.com/in/sameera-perera-1148081b8
+linkedin-url]: http://www.linkedin.com/in/sameera-perera-1148081b8
 [product-screenshot]: readme_assets/splash.jpg
