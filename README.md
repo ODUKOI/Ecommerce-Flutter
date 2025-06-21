@@ -4,9 +4,6 @@
   <h3 align="center">Flutter TDD Clean Architecture E-Commerce App - EShop</h3>
 </p>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
 Welcome to the Flutter-TDD-Clean-Architecture-E-Commerce-App GitHub repository! This project is a showcase of modern mobile app development practices, leveraging the power of Flutter, Test-Driven Development (TDD), Clean Architecture, and the BLoC (Business Logic Component) package. Built using the latest version of Flutter 3, this E-Commerce application exemplifies best practices for building scalable, maintainable, and efficient Flutter apps.
 
 ## Key Features:
